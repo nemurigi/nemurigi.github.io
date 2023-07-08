@@ -7,12 +7,13 @@ cover:
 ---
 
 「片水面/Kata-minamo」は表裏がつながった水面上に立てられた回廊です。  
-メビウスの帯の構造を用いることで上下の空間がなめらかに接続された水面を構成しました。
+メビウスの帯の構造を用いることで上下の空間がなめらかに接続された水面を構成しました。  
 <!--more-->
+[World Link](https://vrchat.com/home/launch?worldId=wrld_88ee35e7-78e5-4a44-8e9e-72110750c72e)
 
-[World Link]()
 
 ![image](/kata-minamo/kata-minamo-2.png)
+(photo by 結村)
 
 ### 回廊のモデリング
 ワールド内のモデルは全てHoudiniを用いてモデリングされています。  

@@ -10,6 +10,8 @@ cover:
 書庫は日本十進分類法に基づいて配架されており、現実の公共図書館と同じ感覚で書庫を遊歩できます。
 <!--more-->
 
+[World Link](https://vrchat.com/home/launch?worldId=wrld_99924ad6-6bb9-479c-8835-282f0a634f60)
+
 ### VR空間での読書
 WIP
 

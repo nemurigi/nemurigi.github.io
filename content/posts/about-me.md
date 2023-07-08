@@ -13,7 +13,7 @@ UnityとHoudiniを用いてVR空間の制作を行っています。
 
 <!--more-->
 
-お問い合わせ等ございましたら、TwitterのDM、もしくは下記のメールアドレスにご連絡ください  
+お問い合わせ等ございましたら、TwitterのDM、または下記のメールアドレスにご連絡ください  
 nemurigi.contact@gmail.com
 
 <!-- 

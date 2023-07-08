@@ -7,6 +7,8 @@ cover :
 ---
 
 ヒルベルト曲線上に構築されたバベルの図書館。
+<!--more-->
+[World Link](https://vrchat.com/home/launch?worldId=wrld_94540748-59cc-4ce6-884d-721b3f85f0c2)
 
 ### モデリング
 WIP
