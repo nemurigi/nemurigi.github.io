@@ -18,10 +18,10 @@
       <pubDate>Fri, 07 Jul 2023 17:23:47 +0900</pubDate>
       
       <guid>https://nemurigi.github.io/posts/about-me/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://nemurigi.github.io/icon.png&#34; alt=&#34;my image&#34;  /&gt;
-&lt;/p&gt;
+      <description>&lt;!-- ![my image](/icon.png) --&gt;
+&lt;h4 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h4&gt;
 &lt;p&gt;ソーシャルVR「&lt;a href=&#34;https://hello.vrchat.com/&#34;&gt;VRChat&lt;/a&gt;」にて活動中の3DCGアーティストです。&lt;br&gt;
-UnityとHoudiniを用いてVR空間の制作を行っています。&lt;/p&gt;</description>
+ゲームエンジンのUnityとDCCツールのHoudiniを用いて、主にVR空間の制作を行っています。VR向けに最適化されたエフェクトの作成や、特殊な空間構造のモデリング・実装を得意としています。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@ UnityとHoudiniを用いてVR空間の制作を行っています。&lt;/p&gt;</
       <pubDate>Wed, 01 Feb 2023 17:16:56 +0900</pubDate>
       
       <guid>https://nemurigi.github.io/posts/ndc-library/</guid>
-      <description>&lt;p&gt;実際の読書が可能な図書館のワールドです。&lt;/p&gt;</description>
+      <description>&lt;p&gt;実際の読書が可能なVRの図書館です。&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ UnityとHoudiniを用いてVR空間の制作を行っています。&lt;/p&gt;</
       <pubDate>Thu, 01 Sep 2022 17:22:29 +0900</pubDate>
       
       <guid>https://nemurigi.github.io/posts/kata-minamo/</guid>
-      <description>&lt;p&gt;「片水面/Kata-minamo」は表裏がつながった水面上に立てられた回廊です。&lt;/p&gt;</description>
+      <description>&lt;p&gt;表裏がつながった水面とそこに立てられた回廊のワールドです。&lt;/p&gt;</description>
     </item>
     
   </channel>
