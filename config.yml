@@ -2,6 +2,7 @@ baseURL: "https://nemurigi.github.io/"
 title: Nemurigi Portfolio
 paginate: 5
 theme: PaperMod
+publishDir: "docs"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
