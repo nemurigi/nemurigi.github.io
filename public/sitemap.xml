@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nemurigi.github.io/posts/about-me/</loc>
+    <lastmod>2023-07-07T17:23:47+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/</loc>
+    <lastmod>2023-07-07T17:23:47+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/posts/</loc>
+    <lastmod>2023-07-07T17:23:47+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/posts/ndc-library/</loc>
+    <lastmod>2023-02-01T17:16:56+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/posts/the-library-of-hilbert/</loc>
+    <lastmod>2023-01-01T17:23:27+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/posts/kata-minamo/</loc>
+    <lastmod>2022-09-01T17:22:29+09:00</lastmod>
+  </url><url>
+    <loc>https://nemurigi.github.io/categories/</loc>
+  </url><url>
+    <loc>https://nemurigi.github.io/tags/</loc>
+  </url>
+</urlset>
