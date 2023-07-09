@@ -16,7 +16,7 @@ cover:
 ![image1](/ndc-library/ndc-library-5.png)
 ![image2](/ndc-library/ndc-library-4.png)
 
-### VR空間での読書
+<!-- ### VR空間での読書
 WIP
 
 ### 日本十進分類法
@@ -27,8 +27,11 @@ NDC Libraryの書庫は、青空文庫様の配布されている[「公開中�
 ### 建物のモデリング
 図書館の外観および書棚のモデリングはHoudiniを用いて行いました。
 
-![Houdini-Modeling](/ndc-library/ndc-library-3.png)
+![Houdini-Modeling](/ndc-library/ndc-library-3.png) -->
 
 ### 関連情報
 [メタバースで図書館体験「NDC Library」　青空文庫活用で1万6377冊](https://www.j-cast.com/trend/2023/02/16456014.html?p=all)  
 J-Cast様にて取材していただきました。
+
+[［JP］NDC Library｜ねむり木  - WATAN](https://watan.jp/posts/fQh2Ltv0)  
+ワールド紹介メディア「WATAN」にて紹介していただきました。私のショートインタビューが掲載されています。
