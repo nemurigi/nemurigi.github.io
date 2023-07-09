@@ -15,7 +15,7 @@ Weight: 1
 
 
 ### Contact
-お問い合わせ等ございましたら、TwitterのDM、またはメールアドレスにご連絡ください 
+お問い合わせ等ございましたら、TwitterのDMまたはメールアドレスにご連絡ください 
 
 Email : nemurigi.contact@gmail.com  
 Twitter : [@Name1ess_Newbie](https://twitter.com/Name1ess_Newbie)  
