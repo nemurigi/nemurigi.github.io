@@ -4,42 +4,52 @@ paginate: 5
 theme: PaperMod
 publishDir: "docs"
 
-enableInlineShortcodes: true
+# enableInlineShortcodes: true
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
+# enableEmoji: true
+# pygmentsUseClasses: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-enableEmoji: true
-pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
 
-minify:
-    disableXML: true
-    # minifyOutput: true
-
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+googleAnalytics: UA-123-45
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Nemurigi's website"
     author: Nemurigi
+    images: ["<link or path of image for opengraph, twitter-cards>"]
     defaultTheme: "dark"
     disableThemeToggle: true
-    ShowShareButtons: true
+
     ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
+    ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: true
-    ShowToc: true
-    # comments: false
-    images: ["papermod-cover.png"]
+    ShowCodeCopyButtons: false
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+
+    # ShowShareButtons: true
+    # ShowReadingTime: true
+    # disableSpecial1stPost: true
+    # displayFullLangName: true
+    # ShowPostNavLinks: true
+    # ShowBreadCrumbs: true
+    # ShowCodeCopyButtons: true
+    # ShowRssButtonInSectionTermList: true
+    # ShowToc: true
+    # # comments: false
+    # images: ["icon.png"]
 
     profileMode:
         enabled: false
@@ -49,6 +59,7 @@ params:
         subtitle: "3DCG | Unity | Houdini | VRChat"
         imageWidth: 240
         imageHeight: 240
+        imageTitle: profile
         # buttons:
         #     - name: Posts
         #       url: posts

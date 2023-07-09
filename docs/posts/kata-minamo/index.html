@@ -28,7 +28,19 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="片水面/Kata-minamo" />
+</noscript>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-123-45', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script><meta property="og:title" content="片水面/Kata-minamo" />
 <meta property="og:description" content="表裏がつながった水面とそこに立てられた回廊のワールドです。" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nemurigi.github.io/posts/kata-minamo/" />
@@ -146,25 +158,7 @@
   </header> 
 <figure class="entry-cover"><img loading="lazy" src="https://nemurigi.github.io/kata-minamo/kata-minamo-0.png" alt="">
         
-</figure><div class="toc">
-    <details >
-        <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Table of Contents</span>
-        </summary>
-
-        <div class="inner"><ul>
-                <li>
-                    <a href="#%e5%9b%9e%e5%bb%8a%e3%81%ae%e3%83%a2%e3%83%87%e3%83%aa%e3%83%b3%e3%82%b0" aria-label="回廊のモデリング">回廊のモデリング</a></li>
-                <li>
-                    <a href="#%e3%82%a8%e3%83%95%e3%82%a7%e3%82%af%e3%83%88%e3%81%ae%e4%bd%9c%e6%88%90" aria-label="エフェクトの作成">エフェクトの作成</a></li>
-                <li>
-                    <a href="#%e9%96%a2%e9%80%a3%e6%83%85%e5%a0%b1" aria-label="関連情報">関連情報</a>
-                </li>
-            </ul>
-        </div>
-    </details>
-</div>
-
+</figure>
   <div class="post-content"><p>表裏がつながった水面とそこに立てられた回廊のワールドです。</p>
 <p>メビウスの帯の構造を用いることで上下の空間をなめらかに移動できる水面を構成しました。</p>
 <p><a href="https://vrchat.com/home/launch?worldId=wrld_88ee35e7-78e5-4a44-8e9e-72110750c72e">World Link</a></p>
@@ -312,53 +306,6 @@ Webメディア「ぶいめぐり。」さんによるワールドのリポー�
         }
     };
 
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
 </script>
 </body>
 

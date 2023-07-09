@@ -28,7 +28,19 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="The Library of Hilbert" />
+</noscript>
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-123-45', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script><meta property="og:title" content="The Library of Hilbert" />
 <meta property="og:description" content="ヒルベルト曲線上に構築されたバベルの図書館。" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://nemurigi.github.io/posts/the-library-of-hilbert/" />
@@ -146,21 +158,7 @@
   </header> 
 <figure class="entry-cover"><img loading="lazy" src="https://nemurigi.github.io/the-library-of-hilbert-0.png" alt="">
         
-</figure><div class="toc">
-    <details >
-        <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Table of Contents</span>
-        </summary>
-
-        <div class="inner"><ul>
-                <li>
-                    <a href="#%e9%96%a2%e9%80%a3%e6%83%85%e5%a0%b1" aria-label="関連情報">関連情報</a>
-                </li>
-            </ul>
-        </div>
-    </details>
-</div>
-
+</figure>
   <div class="post-content"><p>ヒルベルト曲線上に構築されたバベルの図書館。</p>
 <p>空間充填曲線の一種である「ヒルベルト曲線」とJ.L. ボルヘスの短編「バベルの図書館」をモチーフに、空間内を埋めつくす通路の図書館を作成しました。</p>
 <p><a href="https://vrchat.com/home/launch?worldId=wrld_94540748-59cc-4ce6-884d-721b3f85f0c2">World Link</a></p>
@@ -294,53 +292,6 @@
         }
     };
 
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'copy';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'copied!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'copy';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
 </script>
 </body>
 
