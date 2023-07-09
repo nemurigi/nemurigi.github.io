@@ -23,7 +23,7 @@ params:
     title: Nemurigi's website
     description: "Nemurigi's website"
     author: Nemurigi
-    images: ["icon.png"]
+    images: "icon.png"
     defaultTheme: "dark"
     disableThemeToggle: true
 
