@@ -1,5 +1,5 @@
 baseURL: "https://nemurigi.github.io/"
-title: Nemurigi Portfolio
+title: Nemurigi
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
