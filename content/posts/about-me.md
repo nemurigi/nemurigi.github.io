@@ -5,6 +5,7 @@ draft: false
 Weight: 1
 ---
 
+<!--more-->
 
 <!-- ![my image](/icon.png) -->
 
@@ -12,7 +13,6 @@ Weight: 1
 ソーシャルVR「[VRChat](https://hello.vrchat.com/)」にて活動中の3DCGアーティストです。  
 ゲームエンジンのUnityとDCCツールのHoudiniを用いて、主にVR空間の制作を行っています。VR向けに最適化されたエフェクトの作成や、特殊な空間構造のモデリング・実装を得意としています。
 
-<!--more-->
 
 #### 連絡先
 お問い合わせ等ございましたら、TwitterのDM、または下記のメールアドレスにご連絡ください  
