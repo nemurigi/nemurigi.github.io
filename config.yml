@@ -25,7 +25,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "My website"
+    description: "Nemurigi's website"
     author: Nemurigi
     defaultTheme: "dark"
     disableThemeToggle: true
@@ -45,7 +45,7 @@ params:
         enabled: false
         title: "ねむり木"
         imageUrl: "icon.png"
-        imageTitle: my image
+        imageTitle: Nemurigi image
         subtitle: "3DCG | Unity | Houdini | VRChat"
         imageWidth: 240
         imageHeight: 240
