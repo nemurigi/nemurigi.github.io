@@ -6,8 +6,8 @@
     <description>Recent content in Posts on Nemurigi&#39;s Website</description>
     <image>
       <title>Nemurigi&#39;s Website</title>
-      <url>https://nemurigi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://nemurigi.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://nemurigi.github.io/icon.png</url>
+      <link>https://nemurigi.github.io/icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -18,7 +18,7 @@
       <pubDate>Fri, 07 Jul 2023 17:23:47 +0900</pubDate>
       
       <guid>https://nemurigi.github.io/posts/about-me/</guid>
-      <description>&lt;!-- ![my image](/icon.png) --&gt;
+      <description>&lt;!-- raw HTML omitted --&gt;
 &lt;h3 id=&#34;自己紹介&#34;&gt;自己紹介&lt;/h3&gt;
 &lt;p&gt;ソーシャルVR「&lt;a href=&#34;https://hello.vrchat.com/&#34;&gt;VRChat&lt;/a&gt;」にて活動中の3DCGアーティストです。&lt;/p&gt;</description>
     </item>

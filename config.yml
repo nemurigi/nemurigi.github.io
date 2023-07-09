@@ -20,9 +20,10 @@ googleAnalytics: UA-123-45
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Nemurigi's website
     description: "Nemurigi's website"
     author: Nemurigi
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["icon.png"]
     defaultTheme: "dark"
     disableThemeToggle: true
 
@@ -50,6 +51,15 @@ params:
     # ShowToc: true
     # # comments: false
     # images: ["icon.png"]
+
+    assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+        favicon: /icon.png
+        favicon16x16: /icon.png
+        favicon32x32: /icon.png
+        apple_touch_icon: /icon.png
+        safari_pinned_tab: /icon.png
 
     profileMode:
         enabled: false
@@ -91,15 +101,6 @@ params:
     #     google:
     #         SiteVerificationTag: "XYZabc"
 
-    assets:
-        # disableHLJS: true # to disable highlight.js
-        # disableFingerprinting: true
-        favicon: /icon.png
-        favicon16x16: /icon.png
-        favicon32x32: /icon.png
-        apple_touch_icon: /icon.png
-        safari_pinned_tab: /icon.png
-
     # cover:
     #     hidden: true # hide everywhere but not in structured data
     #     hiddenInList: true # hide on list pages and home
@@ -114,41 +115,41 @@ params:
     #     minMatchCharLength: 0
     #     keys: ["title", "permalink", "summary", "content"]
 
-markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
+# markup:
+#     goldmark:
+#         renderer:
+#             unsafe: true
+#     highlight:
+#         noClasses: false
+#         # anchorLineNos: true
+#         # codeFences: true
+#         # guessSyntax: true
+#         # lineNos: true
+#         # style: monokai
 
-privacy:
-    vimeo:
-        disabled: false
-        simple: true
+# privacy:
+#     vimeo:
+#         disabled: false
+#         simple: true
 
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
+#     twitter:
+#         disabled: false
+#         enableDNT: true
+#         simple: true
 
-    instagram:
-        disabled: false
-        simple: true
+#     instagram:
+#         disabled: false
+#         simple: true
 
-    youtube:
-        disabled: false
-        privacyEnhanced: true
+#     youtube:
+#         disabled: false
+#         privacyEnhanced: true
 
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+# services:
+#     instagram:
+#         disableInlineCSS: true
+#     twitter:
+#         disableInlineCSS: true
 
 menu:
     main:
