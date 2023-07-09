@@ -27,10 +27,8 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "My website"
     author: Nemurigi
-    # author: ["Me", "You"] # multiple authors
-
-    defaultTheme: auto
-    # disableThemeToggle: true
+    defaultTheme: "dark"
+    disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecial1stPost: true
@@ -59,16 +57,6 @@ params:
 
     homeInfoParams:
         Title: "ねむり木"
-        Content: >
-            ソーシャルVR「VRChat」で創作活動を行っています。
-
-
-            - ・Houdiniを使ったプロシージャルモデリング
-
-            - ・UnityでのカスタムシェーダーによるVFXの作成
-
-
-            などを得意を得意としています。
 
     # socialIcons:
     #     - name: twitter
