@@ -5,18 +5,25 @@ draft: false
 Weight: 1
 ---
 
-<!--more-->
 
 <!-- ![my image](/icon.png) -->
 
 #### 自己紹介
 ソーシャルVR「[VRChat](https://hello.vrchat.com/)」にて活動中の3DCGアーティストです。  
+<!--more-->
 ゲームエンジンのUnityとDCCツールのHoudiniを用いて、主にVR空間の制作を行っています。VR向けに最適化されたエフェクトの作成や、特殊な空間構造のモデリング・実装を得意としています。
 
 
 #### 連絡先
 お問い合わせ等ございましたら、TwitterのDM、または下記のメールアドレスにご連絡ください  
 nemurigi.contact@gmail.com
+
+#### Link 
+[Twitter](https://twitter.com/Name1ess_Newbie)  
+[VRChat](https://vrchat.com/home/user/usr_776207ad-038a-492d-9439-6d8375c32a6e)  
+[Github](https://github.com/nemurigi)  
+[Blog](https://aquatic-hideout.hatenablog.com/)  
+[Instagram](https://www.instagram.com/nemurigi/)  
 
 #### 使用ツール  
 Unity / Shader / Blender / Houdini / Substance Painter / Python

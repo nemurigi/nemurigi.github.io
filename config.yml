@@ -1,5 +1,5 @@
 baseURL: "https://nemurigi.github.io/"
-title: Nemurigi
+title: Nemurigi's Website
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
@@ -25,7 +25,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Portfolio"
+    description: "My website"
     author: Nemurigi
     # author: ["Me", "You"] # multiple authors
 
